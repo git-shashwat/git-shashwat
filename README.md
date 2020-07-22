@@ -1,3 +1,5 @@
+![shashwat824@gmail com](https://user-images.githubusercontent.com/43851597/88166158-7914e680-cc34-11ea-8585-1fd241b39881.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on: Operations and Logistics Management Tool for Freestand and a Warehouse atmospheric conditions monitor for SIH Finals.
