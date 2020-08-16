@@ -8,5 +8,4 @@
 - 🤔 I’m looking for help with: Using GraphQL as backend and Hardcore C++.
 - 💬 Ask me about: ReactJS, NodeJS and The Office (US).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashwattyagi/) | [AngelList](https://angel.co/u/shashwat-tyagi-5)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love marketing as much as bug-free compilation!
