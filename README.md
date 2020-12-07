@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 📖 I’m currently reading: Shoe Dog
-- 🌱 I’m currently learning: Advanced ReactJS, GraphQL and Nuances of JS.
+- 📖 I’m currently reading: The Psychology of Money by Morgan Housel
+- 🌱 I’m currently learning: TypeScript and Nuances of JS.
 - 🤔 I’m looking for help with: Using GraphQL as backend and Hardcore C++.
 - 💬 Ask me about: ReactJS, NodeJS and The Office (US).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashwattyagi/) | [AngelList](https://angel.co/u/shashwat-tyagi-5)
