@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 📖 I’m currently reading: The Psychology of Money by Morgan Housel
+- 📖 I’m currently reading: Sapiens by Yuval Noah Harari
 - 🌱 I’m currently learning: TypeScript and Nuances of JS.
 - 🤔 I’m looking for help with: Using GraphQL as backend and Hardcore C++.
 - 💬 Ask me about: ReactJS, NodeJS and The Office (US).
